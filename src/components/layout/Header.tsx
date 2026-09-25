@@ -22,13 +22,9 @@ function Header() {
     <header className="sticky top-0 z-50 border-b border-[#E2BFB9] bg-[#FDFBF7]/95 backdrop-blur">
       <div className="mx-auto flex w-full max-w-7xl items-center justify-between px-5 py-4 md:px-8 lg:px-16">
         {/* Logo / Brand */}
-        <Link
-          to="/"
-          onClick={closeMobileMenu}
-          className="shrink-0"
-        >
+        <Link to="/" onClick={closeMobileMenu} className="shrink-0">
           <div className="font-serif text-xl font-bold tracking-tight text-[#570000] md:text-2xl">
-            Telangana Folk Songs
+            Telangana Folk Songssss
           </div>
         </Link>
 
