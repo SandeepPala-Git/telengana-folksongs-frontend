@@ -28,7 +28,7 @@ function Header() {
           className="shrink-0"
         >
           <div className="font-serif text-xl font-bold tracking-tight text-[#570000] md:text-2xl">
-            Telangana Folk SongsSS
+            Telangana Folk Songs
           </div>
         </Link>
 
